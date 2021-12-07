@@ -23,7 +23,7 @@ public class Main {
        System.out.println("sucet:"+sucet);
        System.out.println("Priemer je:"+priemer);
        Arrays.sort(pole);
-       System.out.println("najmenšia hodnota je: "+pole[1]);
+       System.out.println("najmenšia hodnota je: "+pole[0]);
        System.out.println("najväčšia hodnota je: "+pole[19]);
     }
 }
