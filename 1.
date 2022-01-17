@@ -1,0 +1,29 @@
+package com.company;
+import javax.sound.midi.Soundbank;
+import java.sql.SQLOutput;
+import java.util.Scanner;
+import java.util.Random;
+public class Main<app_run> {
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("zadaj km pre 1. den:");
+        double km1 = sc.nextInt();
+        System.out.println("zadaj konecny pocet km:");
+        int km2 = sc.nextInt();
+
+        double ciel = km2;
+        int D = 0;
+
+        while (km1 <= ciel) {
+            km1 = (km1 + km1 * 0.1);
+            D++;
+        }
+        if (ciel <= km1) {
+            System.out.println("tvoj ciel bude dosiahnuty na den cislo " + D);
+            System.out.println("pocet km " + km1);
+        }
+        System.out.println("------------------------------------------------------------");
+
+    }
+}
