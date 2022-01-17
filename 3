@@ -1,0 +1,53 @@
+package com.company;
+import javax.sound.midi.Soundbank;
+import java.sql.SQLOutput;
+import java.util.Scanner;
+import java.util.Random;
+public class Main<app_run> {
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+int applock = 0;
+        int love = 100;
+        while (love <= 0 || applock != 1) {
+            Random rnd = new Random();
+            System.out.println("Stav na ciernu alebo cervenu farbu");
+            System.out.println("CIERNA-1 CERVENA-2");
+
+            int color = sc.nextInt();
+            if (color > 2 || color < 1) {
+                System.out.println("Error-neplatna volba");
+            } else {
+                System.out.println("DOSTUPNE PROSTRIEDKY: " + love);
+                System.out.println("zadajte velkost svojej stavky");
+                int stavka = sc.nextInt();
+
+                if (stavka > love) {
+                    System.out.println("nie je dostatok prostriedkov");
+                } else {
+
+                    int moznost = rnd.nextInt(2);
+
+                    if (color == moznost) {
+                        System.out.println("Gratulacia :)");
+                        love = love + stavka;
+                        System.out.println("Stav vaseho konta : " + love);
+
+
+                    } else {
+                        System.out.println("Preje--al si :(");
+                        love = love - stavka;
+                        System.out.println("Stav vaseho konta : " + love);
+                    }
+                    if (love <= 0) {
+
+                        System.out.println("Dosli ti love");
+                        break;
+
+                    }
+                    System.out.println("pre koniec stlac 1");
+                    applock = sc.nextInt();
+
+                }
+            }
+        }
