@@ -1,0 +1,33 @@
+package com.company;
+import javax.sound.midi.Soundbank;
+import java.sql.SQLOutput;
+import java.util.Scanner;
+import java.util.Random;
+public class Main<app_run> {
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("zadaj cislo");
+        int i = sc.nextInt() - 3;
+        int j = 1;
+        int z = 0;
+        int n = 1;
+        int vys = 0;
+
+        System.out.print(j + ",");
+        System.out.print(n + ",");
+
+        while (z <= i) {
+
+            vys = j + n;
+
+            System.out.print(vys + ",");
+
+            j = n;
+            n = vys;
+
+            z++;
+
+        }
+    }
+}
