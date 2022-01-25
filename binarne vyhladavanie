@@ -1,0 +1,62 @@
+package com.company;
+import java.util.Scanner;
+public class Main {
+
+    public static void main(String[] args)
+    {
+        int tot, i, search, first, last, middle, j, x;
+        Scanner scan = new Scanner(System.in);
+
+        System.out.print("Zadajte velkost pola: ");
+        tot = scan.nextInt();
+
+        int[] arr = new int[tot];
+
+        System.out.print("Zadajte " +tot+" cisla/cisiel: ");
+        for(i=0; i<tot; i++)
+            arr[i] = scan.nextInt();
+
+        // zoradenie cisel, ktore zadal uzivatel
+        for(i=0; i<(tot-1); i++)
+        {
+            for(j=0; j<(tot-i-1); j++)
+            {
+                if(arr[j]>arr[j+1])
+                {
+                    x = arr[j];
+                    arr[j] = arr[j+1];
+                    arr[j+1] = x;
+                }
+            }
+        }
+        System.out.println("\nZoradene pole:");
+        for(i=0; i<tot; i++)
+            System.out.print(arr[i]+ " ");
+
+        // binarne vyhladavanie
+        System.out.print("\n\nZadajte cislo, ktore chcete vyhladat: ");
+        search = scan.nextInt();
+
+        first = 0;
+        last = tot-1;
+        middle = (first+last)/2;
+
+        while(first<=last)
+        {
+            if(arr[middle]<search)
+                first = middle+1;
+            else if(arr[middle]==search)
+            {
+                System.out.println("\nCislo bolo najdene v kroku:" +middle+ ", Pozícia cisla:" +(middle+1));
+                break;
+            }
+            else
+                last = middle-1;
+
+            middle = (first+last)/2;
+        }
+
+        if(first>last)
+            System.out.println("\nCislo, ktore si zadal, nieje v poli :(");
+    }
+}
