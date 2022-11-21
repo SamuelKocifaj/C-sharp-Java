@@ -1,0 +1,42 @@
+import random
+import time
+
+appRunning = True
+mensich = 0
+pole = []
+vacsichrov=0
+
+
+def misko(_ipaddress,_average):
+    print("Na adresu", str(_ipaddress),"boli odoslané dáta: ", _average)
+    
+def avenger(_average):
+    global mensich
+    global vacsichrov
+    if _average <1500:
+        print("mensia ako 1500")
+        mensich +=1
+    else:
+        print("vacsia/rovna ako 1500")
+        vacsichrov +=1
+        
+print("mensich je",mensich,"vacsich alebo rovnych je ",vacsichrov)
+
+while appRunning:
+    sum=0
+    average=0
+    ipaddress=input("Zadaj ip: ")
+    
+    for x in range(10):
+        randNum = random.randint(1000,2000)
+        sum += randNum
+        print(randNum)
+        time.sleep(0.5)
+    average = sum /10
+    misko(ipaddress,average)
+    avenger(average)
+    
+    bronzik=input("Chceš opakovať? Y/N: ")
+    
+    if bronzik!="Y":
+        appRunning = False
