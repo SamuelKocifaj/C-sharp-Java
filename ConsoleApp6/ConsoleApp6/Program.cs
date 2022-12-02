@@ -1,2 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+
+using ConsoleApp6;
+
+static void Main(string[] args, object Kocka)
+{
+    Console.WriteLine(Kocka);
+}

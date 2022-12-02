@@ -8,7 +8,7 @@ namespace ConsoleApp6
 {
     public abstract class Hranol:Tvar
     {
-        public double Povrch(double SP,double SPL,double O,double v)
+        public double Povrch(double SP,double O,double v)
         {
           
             double ObsahPlasta;
