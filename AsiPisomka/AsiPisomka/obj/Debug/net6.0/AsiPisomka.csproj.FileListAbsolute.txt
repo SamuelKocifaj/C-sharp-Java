@@ -1,0 +1,15 @@
+C:\Users\kocki\source\repos\AsiPisomka\AsiPisomka\obj\Debug\net6.0\AsiPisomka.csproj.AssemblyReference.cache
+C:\Users\kocki\source\repos\AsiPisomka\AsiPisomka\obj\Debug\net6.0\AsiPisomka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kocki\source\repos\AsiPisomka\AsiPisomka\obj\Debug\net6.0\AsiPisomka.AssemblyInfoInputs.cache
+C:\Users\kocki\source\repos\AsiPisomka\AsiPisomka\obj\Debug\net6.0\AsiPisomka.AssemblyInfo.cs
+C:\Users\kocki\source\repos\AsiPisomka\AsiPisomka\obj\Debug\net6.0\AsiPisomka.csproj.CoreCompileInputs.cache
+C:\Users\kocki\source\repos\AsiPisomka\AsiPisomka\bin\Debug\net6.0\AsiPisomka.exe
+C:\Users\kocki\source\repos\AsiPisomka\AsiPisomka\bin\Debug\net6.0\AsiPisomka.deps.json
+C:\Users\kocki\source\repos\AsiPisomka\AsiPisomka\bin\Debug\net6.0\AsiPisomka.runtimeconfig.json
+C:\Users\kocki\source\repos\AsiPisomka\AsiPisomka\bin\Debug\net6.0\AsiPisomka.dll
+C:\Users\kocki\source\repos\AsiPisomka\AsiPisomka\bin\Debug\net6.0\AsiPisomka.pdb
+C:\Users\kocki\source\repos\AsiPisomka\AsiPisomka\obj\Debug\net6.0\AsiPisomka.dll
+C:\Users\kocki\source\repos\AsiPisomka\AsiPisomka\obj\Debug\net6.0\refint\AsiPisomka.dll
+C:\Users\kocki\source\repos\AsiPisomka\AsiPisomka\obj\Debug\net6.0\AsiPisomka.pdb
+C:\Users\kocki\source\repos\AsiPisomka\AsiPisomka\obj\Debug\net6.0\AsiPisomka.genruntimeconfig.cache
+C:\Users\kocki\source\repos\AsiPisomka\AsiPisomka\obj\Debug\net6.0\ref\AsiPisomka.dll
