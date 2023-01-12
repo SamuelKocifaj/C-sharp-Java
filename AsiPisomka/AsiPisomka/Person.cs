@@ -8,10 +8,10 @@ namespace AsiPisomka
 {
    public class Person
     {
-        string FirstName { get; set; }
-        string LastName { get; set; }
-        int Age { get; set; }
-        double Height { get; set; }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public int Age { get; set; }
+        public double Height { get; set; }
         public Person(string _firstname, string _lastname, int _age, double _height) 
         { 
             this.FirstName = _firstname;
@@ -22,13 +22,7 @@ namespace AsiPisomka
         }
         public override string ToString()
         {
-            String message = "-----------";
-            Console.WriteLine(message);
-            Console.WriteLine("Meno: "+FirstName);
-            Console.WriteLine("Priezvysko: "+LastName);
-            Console.WriteLine("Vek: "+Age);
-            Console.WriteLine("Výška: "+Height);
-            return message;
+            return "Name: " + FirstName + "\nSurname: " + LastName + "\nAge" + Age + "\nHeight" + Height;
         }
     }
 }

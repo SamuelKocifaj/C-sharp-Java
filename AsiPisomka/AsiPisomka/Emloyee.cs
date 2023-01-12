@@ -11,22 +11,26 @@ namespace AsiPisomka
        public double SalaryBrutto { get; set; }
         public Emloyee(string _firstname, string _lastname, int _age, double _height, double _salaryBrutto) : base(_firstname, _lastname, _age, _height)
         {
-            this.SalaryBrutto = SalaryBrutto;
+            SalaryBrutto = _salaryBrutto;
         }
 
         
         public  double calculateSalaryNetto()
         {
-            return SalaryBrutto + (SalaryBrutto/70.15);
+            return (SalaryBrutto/100) *70.15;
         }
         public double calculateIncomeTax()
         {
-            return SalaryBrutto - (SalaryBrutto/16.45);
+            return (SalaryBrutto/100) *16.45;
         }
         public double calculateInsurance()
         {
-            return SalaryBrutto - (SalaryBrutto / 13.45);
+            return (SalaryBrutto/100) *13.40;
         }
-        
+        public override string ToString()
+        {
+            return "Name: " + FirstName + "\nSurname: " + LastName + "\nAge" + Age + "\nHeight" + Height +"\nBrutto salary: " + SalaryBrutto + "\nNettoSalary: " + calculateInsurance() + "\nIncome Tax: "
+                + calculateIncomeTax() + "\nInsurance: " + calculateInsurance();
+        }
     }
 }
