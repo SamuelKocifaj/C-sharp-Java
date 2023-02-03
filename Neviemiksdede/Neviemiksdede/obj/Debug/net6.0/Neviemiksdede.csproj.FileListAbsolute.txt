@@ -1,0 +1,15 @@
+C:\Users\z19istc14\source\repos\Neviemiksdede\Neviemiksdede\obj\Debug\net6.0\Neviemiksdede.csproj.AssemblyReference.cache
+C:\Users\z19istc14\source\repos\Neviemiksdede\Neviemiksdede\obj\Debug\net6.0\Neviemiksdede.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z19istc14\source\repos\Neviemiksdede\Neviemiksdede\obj\Debug\net6.0\Neviemiksdede.AssemblyInfoInputs.cache
+C:\Users\z19istc14\source\repos\Neviemiksdede\Neviemiksdede\obj\Debug\net6.0\Neviemiksdede.AssemblyInfo.cs
+C:\Users\z19istc14\source\repos\Neviemiksdede\Neviemiksdede\obj\Debug\net6.0\Neviemiksdede.csproj.CoreCompileInputs.cache
+C:\Users\z19istc14\source\repos\Neviemiksdede\Neviemiksdede\bin\Debug\net6.0\Neviemiksdede.exe
+C:\Users\z19istc14\source\repos\Neviemiksdede\Neviemiksdede\bin\Debug\net6.0\Neviemiksdede.deps.json
+C:\Users\z19istc14\source\repos\Neviemiksdede\Neviemiksdede\bin\Debug\net6.0\Neviemiksdede.runtimeconfig.json
+C:\Users\z19istc14\source\repos\Neviemiksdede\Neviemiksdede\bin\Debug\net6.0\Neviemiksdede.dll
+C:\Users\z19istc14\source\repos\Neviemiksdede\Neviemiksdede\bin\Debug\net6.0\Neviemiksdede.pdb
+C:\Users\z19istc14\source\repos\Neviemiksdede\Neviemiksdede\obj\Debug\net6.0\Neviemiksdede.dll
+C:\Users\z19istc14\source\repos\Neviemiksdede\Neviemiksdede\obj\Debug\net6.0\refint\Neviemiksdede.dll
+C:\Users\z19istc14\source\repos\Neviemiksdede\Neviemiksdede\obj\Debug\net6.0\Neviemiksdede.pdb
+C:\Users\z19istc14\source\repos\Neviemiksdede\Neviemiksdede\obj\Debug\net6.0\Neviemiksdede.genruntimeconfig.cache
+C:\Users\z19istc14\source\repos\Neviemiksdede\Neviemiksdede\obj\Debug\net6.0\ref\Neviemiksdede.dll
