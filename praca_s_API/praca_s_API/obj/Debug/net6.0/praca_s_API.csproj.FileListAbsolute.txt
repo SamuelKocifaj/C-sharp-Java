@@ -1,0 +1,15 @@
+C:\Users\z19istc14\Downloads\praca_s_API\praca_s_API\bin\Debug\net6.0\praca_s_API.exe
+C:\Users\z19istc14\Downloads\praca_s_API\praca_s_API\bin\Debug\net6.0\praca_s_API.deps.json
+C:\Users\z19istc14\Downloads\praca_s_API\praca_s_API\bin\Debug\net6.0\praca_s_API.runtimeconfig.json
+C:\Users\z19istc14\Downloads\praca_s_API\praca_s_API\bin\Debug\net6.0\praca_s_API.dll
+C:\Users\z19istc14\Downloads\praca_s_API\praca_s_API\bin\Debug\net6.0\praca_s_API.pdb
+C:\Users\z19istc14\Downloads\praca_s_API\praca_s_API\obj\Debug\net6.0\praca_s_API.csproj.AssemblyReference.cache
+C:\Users\z19istc14\Downloads\praca_s_API\praca_s_API\obj\Debug\net6.0\praca_s_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z19istc14\Downloads\praca_s_API\praca_s_API\obj\Debug\net6.0\praca_s_API.AssemblyInfoInputs.cache
+C:\Users\z19istc14\Downloads\praca_s_API\praca_s_API\obj\Debug\net6.0\praca_s_API.AssemblyInfo.cs
+C:\Users\z19istc14\Downloads\praca_s_API\praca_s_API\obj\Debug\net6.0\praca_s_API.csproj.CoreCompileInputs.cache
+C:\Users\z19istc14\Downloads\praca_s_API\praca_s_API\obj\Debug\net6.0\praca_s_API.dll
+C:\Users\z19istc14\Downloads\praca_s_API\praca_s_API\obj\Debug\net6.0\refint\praca_s_API.dll
+C:\Users\z19istc14\Downloads\praca_s_API\praca_s_API\obj\Debug\net6.0\praca_s_API.pdb
+C:\Users\z19istc14\Downloads\praca_s_API\praca_s_API\obj\Debug\net6.0\praca_s_API.genruntimeconfig.cache
+C:\Users\z19istc14\Downloads\praca_s_API\praca_s_API\obj\Debug\net6.0\ref\praca_s_API.dll
