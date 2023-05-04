@@ -1,0 +1,17 @@
+C:\Users\kocki\source\repos\sach\sach\obj\Debug\net6.0\sach.csproj.AssemblyReference.cache
+C:\Users\kocki\source\repos\sach\sach\obj\Debug\net6.0\sach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kocki\source\repos\sach\sach\obj\Debug\net6.0\sach.AssemblyInfoInputs.cache
+C:\Users\kocki\source\repos\sach\sach\obj\Debug\net6.0\sach.AssemblyInfo.cs
+C:\Users\kocki\source\repos\sach\sach\obj\Debug\net6.0\sach.csproj.CoreCompileInputs.cache
+C:\Users\kocki\source\repos\sach\sach\bin\Debug\net6.0\sach.exe
+C:\Users\kocki\source\repos\sach\sach\bin\Debug\net6.0\sach.deps.json
+C:\Users\kocki\source\repos\sach\sach\bin\Debug\net6.0\sach.runtimeconfig.json
+C:\Users\kocki\source\repos\sach\sach\bin\Debug\net6.0\sach.dll
+C:\Users\kocki\source\repos\sach\sach\bin\Debug\net6.0\sach.pdb
+C:\Users\kocki\source\repos\sach\sach\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\kocki\source\repos\sach\sach\obj\Debug\net6.0\sach.csproj.CopyComplete
+C:\Users\kocki\source\repos\sach\sach\obj\Debug\net6.0\sach.dll
+C:\Users\kocki\source\repos\sach\sach\obj\Debug\net6.0\refint\sach.dll
+C:\Users\kocki\source\repos\sach\sach\obj\Debug\net6.0\sach.pdb
+C:\Users\kocki\source\repos\sach\sach\obj\Debug\net6.0\sach.genruntimeconfig.cache
+C:\Users\kocki\source\repos\sach\sach\obj\Debug\net6.0\ref\sach.dll
